@@ -1,6 +1,6 @@
 # template-site-sass
 
-template-site-sass is a template to get all the strucure make when you're start a new project.
+template-site-sass is a template to get all the strucure make when you're start a new project with SASS.
 
 ## Installation
 
